@@ -1,0 +1,1365 @@
+date and time:
+Thu May  7 05:13:54 EDT 2020
+
+os version:
+Ubuntu 18.04.3 LTS \n \l
+
+hardware information:
+
+Linux ubuntu 5.0.0-36-generic #39~18.04.1-Ubuntu SMP Tue Nov 12 11:09:50 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 142
+model name	: Intel(R) Core(TM) i7-7660U CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0xb4
+cpu MHz		: 2496.000
+cache size	: 4096 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 invpcid rtm mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat md_clear flush_l1d arch_capabilities
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 4992.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 142
+model name	: Intel(R) Core(TM) i7-7660U CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0xb4
+cpu MHz		: 2496.000
+cache size	: 4096 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 invpcid rtm mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat md_clear flush_l1d arch_capabilities
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs taa itlb_multihit
+bogomips	: 4992.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+
+
+MemTotal:        2013364 kB
+MemFree:           90764 kB
+MemAvailable:     443736 kB
+Buffers:           96708 kB
+Cached:           359388 kB
+SwapCached:        16092 kB
+Active:           676128 kB
+Inactive:         655100 kB
+Active(anon):     439344 kB
+Inactive(anon):   449792 kB
+Active(file):     236784 kB
+Inactive(file):   205308 kB
+Unevictable:          16 kB
+Mlocked:              16 kB
+SwapTotal:       2097148 kB
+SwapFree:        1752316 kB
+Dirty:                 4 kB
+Writeback:             0 kB
+AnonPages:        863772 kB
+Mapped:           236372 kB
+Shmem:             14004 kB
+KReclaimable:      84752 kB
+Slab:             152340 kB
+SReclaimable:      84752 kB
+SUnreclaim:        67588 kB
+KernelStack:       13472 kB
+PageTables:        50060 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3103828 kB
+Committed_AS:    5796428 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:            38912 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      237440 kB
+DirectMap2M:     1859584 kB
+DirectMap1G:           0 kB
+
+
+Disk /dev/loop0: 3.7 MiB, 3821568 bytes, 7464 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop1: 956 KiB, 978944 bytes, 1912 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop2: 149.9 MiB, 157192192 bytes, 307016 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop3: 89 MiB, 93327360 bytes, 182280 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop4: 140.7 MiB, 147501056 bytes, 288088 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop5: 54.5 MiB, 57151488 bytes, 111624 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop6: 3.7 MiB, 3825664 bytes, 7472 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop7: 14.8 MiB, 15458304 bytes, 30192 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/sda: 200 GiB, 214748364800 bytes, 419430400 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0xcbe056a3
+
+Device     Boot Start       End   Sectors  Size Id Type
+/dev/sda1  *     2048 419428351 419426304  200G 83 Linux
+
+
+Disk /dev/loop8: 4.2 MiB, 4403200 bytes, 8600 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop9: 54.5 MiB, 57139200 bytes, 111600 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop10: 4.2 MiB, 4403200 bytes, 8600 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop11: 14.8 MiB, 15462400 bytes, 30200 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop12: 156.7 MiB, 164290560 bytes, 320880 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop13: 956 KiB, 978944 bytes, 1912 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop14: 140.7 MiB, 147501056 bytes, 288088 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop15: 42.8 MiB, 44879872 bytes, 87656 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop16: 89.1 MiB, 93429760 bytes, 182480 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop17: 44.2 MiB, 46325760 bytes, 90480 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+udev            960M     0  960M   0% /dev
+tmpfs           197M  1.9M  195M   1% /run
+/dev/sda1       196G   24G  163G  13% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           984M     0  984M   0% /sys/fs/cgroup
+/dev/loop0      3.8M  3.8M     0 100% /snap/gnome-system-monitor/111
+/dev/loop1      1.0M  1.0M     0 100% /snap/gnome-logs/73
+/dev/loop2      150M  150M     0 100% /snap/gnome-3-28-1804/71
+/dev/loop3       90M   90M     0 100% /snap/core/7713
+/dev/loop4      141M  141M     0 100% /snap/gnome-3-26-1604/92
+/dev/loop5       55M   55M     0 100% /snap/core18/1265
+/dev/loop6      3.8M  3.8M     0 100% /snap/gnome-system-monitor/100
+/dev/loop7       15M   15M     0 100% /snap/gnome-characters/367
+/dev/loop9       55M   55M     0 100% /snap/core18/1192
+/dev/loop8      4.3M  4.3M     0 100% /snap/gnome-calculator/501
+/dev/loop10     4.3M  4.3M     0 100% /snap/gnome-calculator/544
+/dev/loop11      15M   15M     0 100% /snap/gnome-characters/317
+/dev/loop13     1.0M  1.0M     0 100% /snap/gnome-logs/81
+/dev/loop12     157M  157M     0 100% /snap/gnome-3-28-1804/110
+/dev/loop14     141M  141M     0 100% /snap/gnome-3-26-1604/98
+/dev/loop15      43M   43M     0 100% /snap/gtk-common-themes/1313
+/dev/loop17      45M   45M     0 100% /snap/gtk-common-themes/1353
+/dev/loop16      90M   90M     0 100% /snap/core/8039
+tmpfs           197M   16K  197M   1% /run/user/121
+tmpfs           197M   32K  197M   1% /run/user/1000
+/dev/sr0        1.9G  1.9G     0 100% /media/zhu/Ubuntu 18.04.2 LTS amd64
+
+uptime:
+05:23:50 up  3:01,  1 user,  load average: 1.54, 1.40, 1.26
+
+service information：
+ [ + ]  acpid
+ [ + ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  apache2
+ [ + ]  apache-htcacheclean
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ + ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ - ]  dns-clean
+ [ + ]  gdm3
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ + ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  mysql
+ [ + ]  networking
+ [ + ]  network-manager
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ + ]  speech-dispatcher
+ [ - ]  spice-vdagent
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  vmware-tools
+ [ + ]  whoopsie
+ [ - ]  x11-common
+
+nic information：
+ens33: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.234.130  netmask 255.255.255.0  broadcast 192.168.234.255
+        inet6 fe80::968f:d8ec:3634:2da3  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:75:b9:c4  txqueuelen 1000  (Ethernet)
+        RX packets 38530  bytes 52785423 (52.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6013  bytes 617848 (617.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1116  bytes 96366 (96.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1116  bytes 96366 (96.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+route information:
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         192.168.234.2   0.0.0.0         UG        0 0          0 ens33
+169.254.0.0     0.0.0.0         255.255.0.0     U         0 0          0 ens33
+192.168.234.0   0.0.0.0         255.255.255.0   U         0 0          0 ens33
+
+arp information:
+? (192.168.234.254) at 00:50:56:fb:ed:3b [ether] on ens33
+_gateway (192.168.234.2) at 00:50:56:fe:7f:81 [ether] on ens33
+
+
+information of processes：
+USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          1  0.4  0.3 160180  7988 ?        -    21:54   0:07 /sbin/init splash
+root          -  0.4    -      -     - -        Ss   21:54   0:07 -
+root          2  0.0  0.0      0     0 ?        -    21:54   0:00 [kthreadd]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root          3  0.0  0.0      0     0 ?        -    21:54   0:00 [rcu_gp]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root          4  0.0  0.0      0     0 ?        -    21:54   0:00 [rcu_par_gp]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root          6  0.0  0.0      0     0 ?        -    21:54   0:00 [kworker/0:0H-kb]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root          8  0.0  0.0      0     0 ?        -    21:54   0:00 [mm_percpu_wq]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root          9  0.0  0.0      0     0 ?        -    21:54   0:00 [ksoftirqd/0]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         10  0.5  0.0      0     0 ?        -    21:54   0:09 [rcu_sched]
+root          -  0.5    -      -     - -        I    21:54   0:09 -
+root         11  0.0  0.0      0     0 ?        -    21:54   0:00 [migration/0]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         13  0.0  0.0      0     0 ?        -    21:54   0:00 [idle_inject/0]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         14  0.0  0.0      0     0 ?        -    21:54   0:00 [cpuhp/0]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         15  0.0  0.0      0     0 ?        -    21:54   0:00 [cpuhp/1]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         16  0.0  0.0      0     0 ?        -    21:54   0:00 [idle_inject/1]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         17  0.0  0.0      0     0 ?        -    21:54   0:00 [migration/1]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         18  0.0  0.0      0     0 ?        -    21:54   0:00 [ksoftirqd/1]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         20  0.0  0.0      0     0 ?        -    21:54   0:00 [kworker/1:0H-kb]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         21  0.0  0.0      0     0 ?        -    21:54   0:00 [kdevtmpfs]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         22  0.0  0.0      0     0 ?        -    21:54   0:00 [netns]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         23  0.0  0.0      0     0 ?        -    21:54   0:00 [rcu_tasks_kthre]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         24  0.0  0.0      0     0 ?        -    21:54   0:00 [kauditd]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         27  0.0  0.0      0     0 ?        -    21:54   0:00 [kworker/0:2-eve]
+root          -  0.0    -      -     - -        I    21:54   0:00 -
+root         28  0.0  0.0      0     0 ?        -    21:54   0:00 [khungtaskd]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         29  0.0  0.0      0     0 ?        -    21:54   0:00 [oom_reaper]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         30  0.0  0.0      0     0 ?        -    21:54   0:00 [writeback]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         31  0.0  0.0      0     0 ?        -    21:54   0:00 [kcompactd0]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         32  0.0  0.0      0     0 ?        -    21:54   0:00 [ksmd]
+root          -  0.0    -      -     - -        SN   21:54   0:00 -
+root         33  0.0  0.0      0     0 ?        -    21:54   0:00 [khugepaged]
+root          -  0.0    -      -     - -        SN   21:54   0:00 -
+root         34  0.0  0.0      0     0 ?        -    21:54   0:00 [crypto]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         35  0.0  0.0      0     0 ?        -    21:54   0:00 [kintegrityd]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         36  0.0  0.0      0     0 ?        -    21:54   0:00 [kblockd]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         37  0.0  0.0      0     0 ?        -    21:54   0:00 [tpm_dev_wq]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         38  0.0  0.0      0     0 ?        -    21:54   0:00 [ata_sff]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         39  0.0  0.0      0     0 ?        -    21:54   0:00 [md]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         40  0.0  0.0      0     0 ?        -    21:54   0:00 [edac-poller]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         41  0.0  0.0      0     0 ?        -    21:54   0:00 [devfreq_wq]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root         42  0.0  0.0      0     0 ?        -    21:54   0:00 [watchdogd]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root         46  0.3  0.0      0     0 ?        -    21:54   0:05 [kswapd0]
+root          -  0.3    -      -     - -        S    21:54   0:05 -
+root         48  0.0  0.0      0     0 ?        -    21:54   0:00 [ecryptfs-kthrea]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        137  0.0  0.0      0     0 ?        -    21:54   0:00 [kthrotld]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        138  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/24-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        139  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/25-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        140  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/26-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        141  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/27-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        142  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/28-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        143  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/29-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        144  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/30-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        145  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/31-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        146  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/32-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        147  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/33-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        148  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/34-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        149  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/35-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        150  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/36-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        151  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/37-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        152  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/38-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        153  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/39-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        154  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/40-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        155  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/41-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        156  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/42-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        157  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/43-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        158  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/44-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        159  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/45-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        160  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/46-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        161  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/47-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        162  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/48-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        163  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/49-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        164  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/50-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        165  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/51-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        166  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/52-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        167  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/53-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        168  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/54-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        169  0.0  0.0      0     0 ?        -    21:54   0:00 [irq/55-pciehp]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        170  0.0  0.0      0     0 ?        -    21:54   0:00 [acpi_thermal_pm]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        171  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_0]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        172  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_0]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        173  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_1]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        174  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_1]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        177  0.0  0.0      0     0 ?        -    21:54   0:00 [ipv6_addrconf]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        188  0.0  0.0      0     0 ?        -    21:54   0:00 [kstrp]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        207  0.0  0.0      0     0 ?        -    21:54   0:00 [charger_manager]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        255  0.0  0.0      0     0 ?        -    21:54   0:00 [mpt_poll_0]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        256  0.0  0.0      0     0 ?        -    21:54   0:00 [mpt/0]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        257  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_2]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        258  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_2]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        259  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_3]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        260  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_3]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        261  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_4]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        262  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_4]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        263  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_5]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        264  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_5]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        265  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_6]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        266  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_6]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        267  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_7]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        268  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_7]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        269  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_8]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        270  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_8]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        271  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_9]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        272  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_9]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        273  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_10]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        274  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_10]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        275  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_11]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        276  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_11]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        277  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_12]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        278  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_12]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        279  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_13]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        280  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_13]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        281  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_14]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        282  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_14]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        283  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_15]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        284  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_15]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        285  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_16]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        286  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_16]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        287  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_17]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        288  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_17]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        289  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_18]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        290  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_18]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        291  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_19]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        292  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_19]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        293  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_20]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        294  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_20]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        295  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_21]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        296  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_21]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        297  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_22]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        298  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_22]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        299  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_23]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        300  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_23]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        301  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_24]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        302  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_24]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        303  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_25]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        304  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_25]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        305  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_26]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        306  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_26]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        307  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_27]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        308  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_27]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        309  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_28]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        310  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_28]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        311  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_29]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        312  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_29]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        313  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_30]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        314  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_31]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        315  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_31]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        316  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_30]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        317  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_eh_32]
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+root        318  0.0  0.0      0     0 ?        -    21:54   0:00 [scsi_tmf_32]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        344  0.0  0.0      0     0 ?        -    21:54   0:00 [kworker/u256:29]
+root          -  0.0    -      -     - -        I    21:54   0:00 -
+root        348  0.2  0.0      0     0 ?        -    21:54   0:04 [kworker/1:1H-kb]
+root          -  0.2    -      -     - -        I<   21:54   0:04 -
+root        351  0.2  0.0      0     0 ?        -    21:54   0:04 [kworker/0:1H-kb]
+root          -  0.2    -      -     - -        I<   21:54   0:04 -
+root        379  0.7  0.0      0     0 ?        -    21:54   0:13 [jbd2/sda1-8]
+root          -  0.7    -      -     - -        S    21:54   0:13 -
+root        380  0.0  0.0      0     0 ?        -    21:54   0:00 [ext4-rsv-conver]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        414  0.1  0.5 128020 10296 ?        -    21:54   0:01 /lib/systemd/systemd-journald
+root          -  0.1    -      -     - -        S<s  21:54   0:01 -
+root        435  0.0  0.2  46628  4272 ?        -    21:54   0:00 /lib/systemd/systemd-udevd
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        492  0.0  0.0      0     0 ?        -    21:54   0:00 [loop0]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        496  0.0  0.0      0     0 ?        -    21:54   0:00 [loop1]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        500  0.0  0.0      0     0 ?        -    21:54   0:00 [loop2]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        502  0.0  0.0      0     0 ?        -    21:54   0:00 [loop3]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        505  0.0  0.0      0     0 ?        -    21:54   0:00 [loop4]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        508  0.0  0.0      0     0 ?        -    21:54   0:00 [loop5]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        515  0.0  0.0      0     0 ?        -    21:54   0:00 [loop6]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        516  0.0  0.0      0     0 ?        -    21:54   0:00 [loop7]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        518  0.0  0.0      0     0 ?        -    21:54   0:00 [loop8]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        521  0.0  0.0      0     0 ?        -    21:54   0:00 [loop9]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        528  0.0  0.0      0     0 ?        -    21:54   0:00 [loop10]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        532  0.0  0.0      0     0 ?        -    21:54   0:00 [loop11]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        533  0.0  0.0      0     0 ?        -    21:54   0:00 [loop12]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        539  0.0  0.0      0     0 ?        -    21:54   0:00 [loop13]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        543  0.0  0.0      0     0 ?        -    21:54   0:00 [loop14]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        546  0.0  0.0      0     0 ?        -    21:54   0:00 [loop15]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+root        548  0.0  0.0      0     0 ?        -    21:54   0:00 [loop16]
+root          -  0.0    -      -     - -        S<   21:54   0:00 -
+systemd+    549  0.0  0.1 146108  3664 ?        -    21:54   0:00 /lib/systemd/systemd-timesyncd
+systemd+      -  0.0    -      -     - -        Ssl  21:54   0:00 -
+systemd+      -  0.0    -      -     - -        Ssl  21:54   0:00 -
+systemd+    550  0.0  0.2  70888  4608 ?        -    21:54   0:00 /lib/systemd/systemd-resolved
+systemd+      -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        644  0.0  0.0      0     0 ?        -    21:54   0:00 [kworker/u257:1-]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        674  0.0  0.0      0     0 ?        -    21:54   0:01 [irq/16-vmwgfx]
+root          -  0.0    -      -     - -        S    21:54   0:01 -
+root        675  0.0  0.0      0     0 ?        -    21:54   0:00 [ttm_swap]
+root          -  0.0    -      -     - -        I<   21:54   0:00 -
+root        698  0.0  0.1 107688  3684 ?        -    21:54   0:00 /usr/sbin/cupsd -l
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        699  0.0  0.2 434320  5592 ?        -    21:54   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+avahi       701  0.0  0.1  47256  3072 ?        -    21:54   0:00 avahi-daemon: running [ubuntu.local]
+avahi         -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        702  0.0  0.2 294740  5804 ?        -    21:54   0:00 /usr/lib/accountsservice/accounts-daemon
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        705  0.0  0.0   4548   652 ?        -    21:54   0:00 /usr/sbin/acpid
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+avahi       708  0.0  0.0  47072    40 ?        -    21:54   0:00 avahi-daemon: chroot helper
+avahi         -  0.0    -      -     - -        S    21:54   0:00 -
+root        709  0.0  0.1  38424  2404 ?        -    21:54   0:00 /usr/sbin/cron -f
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        717  0.0  0.3 177636  7824 ?        -    21:54   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+message+    720  0.1  0.2  51608  4612 ?        -    21:54   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+message+      -  0.1    -      -     - -        Ss   21:54   0:02 -
+syslog      739  0.0  0.1 263032  2592 ?        -    21:54   0:00 /usr/sbin/rsyslogd -n
+syslog        -  0.0    -      -     - -        Ssl  21:54   0:00 -
+syslog        -  0.0    -      -     - -        Ssl  21:54   0:00 -
+syslog        -  0.0    -      -     - -        Ssl  21:54   0:00 -
+syslog        -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        740  0.0  0.6 567800 13220 ?        -    21:54   0:01 /usr/sbin/NetworkManager --no-daemon
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        742  0.0  0.4 503412  8504 ?        -    21:54   0:00 /usr/lib/udisks2/udisksd
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        743  0.0  0.1 110504  3092 ?        -    21:54   0:00 /usr/sbin/irqbalance --foreground
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        744  0.0  0.1  70684  3316 ?        -    21:54   0:00 /lib/systemd/systemd-logind
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        749  0.0  0.1  45232  2508 ?        -    21:54   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+root        802  0.0  0.4 303320  8144 ?        -    21:54   0:01 /usr/lib/policykit-1/polkitd --no-debug
+root          -  0.0    -      -     - -        Ssl  21:54   0:01 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        809  0.0  0.2 303652  5556 ?        -    21:54   0:00 /usr/sbin/cups-browsed
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        844  0.0  0.4 194344  9240 ?        -    21:54   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root        905  0.0  0.2 308184  5500 ?        -    21:54   0:00 /usr/sbin/gdm3
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+mysql       962  0.1  0.1 1358864 3180 ?        -    21:54   0:03 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+mysql         -  0.0    -      -     - -        Sl   21:54   0:00 -
+root        963  0.0  0.2 338860  5300 ?        -    21:54   0:00 /usr/sbin/apache2 -k start
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+www-data    966  0.0  0.0 341184  1900 ?        -    21:54   0:00 /usr/sbin/apache2 -k start
+www-data      -  0.0    -      -     - -        S    21:54   0:00 -
+www-data    967  0.0  0.0 341184  1900 ?        -    21:54   0:00 /usr/sbin/apache2 -k start
+www-data      -  0.0    -      -     - -        S    21:54   0:00 -
+www-data    969  0.0  0.0 341184  1900 ?        -    21:54   0:00 /usr/sbin/apache2 -k start
+www-data      -  0.0    -      -     - -        S    21:54   0:00 -
+www-data    970  0.0  0.0 341184  1900 ?        -    21:54   0:00 /usr/sbin/apache2 -k start
+www-data      -  0.0    -      -     - -        S    21:54   0:00 -
+www-data    971  0.0  0.0 341184  1900 ?        -    21:54   0:00 /usr/sbin/apache2 -k start
+www-data      -  0.0    -      -     - -        S    21:54   0:00 -
+root       1208  0.0  0.2 322288  5668 ?        -    21:54   0:00 /usr/lib/upower/upowerd
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root       1251  0.0  0.2 261552  5224 ?        -    21:54   0:00 gdm-session-worker [pam/gdm-launch-environment]
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root       1270  0.0  0.1  36476  4012 ?        -    21:54   0:00 /usr/lib/bluetooth/bluetoothd
+root          -  0.0    -      -     - -        Ss   21:54   0:00 -
+gdm        1277  0.0  0.2  76916  5580 ?        -    21:54   0:00 /lib/systemd/systemd --user
+gdm           -  0.0    -      -     - -        Ss   21:54   0:00 -
+gdm        1278  0.0  0.0 195924   360 ?        -    21:54   0:00 (sd-pam)
+gdm           -  0.0    -      -     - -        S    21:54   0:00 -
+gdm        1306  0.0  0.2 197796  4648 tty1     -    21:54   0:00 /usr/lib/gdm3/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm           -  0.0    -      -     - -        Ssl+ 21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl+ 21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl+ 21:54   0:00 -
+gdm        1308  0.0  0.1  50256  3360 ?        -    21:54   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm           -  0.0    -      -     - -        Ss   21:54   0:00 -
+gdm        1323  0.0  0.5 558988 10068 tty1     -    21:54   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1359  0.5  3.6 3376428 73764 tty1    -    21:54   0:10 /usr/bin/gnome-shell
+gdm           -  0.5    -      -     - -        Sl+  21:54   0:08 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+root       1386  0.0  0.0 193120    76 ?        -    21:54   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root       1422  0.2  0.3 194312  6120 ?        -    21:54   0:03 /usr/sbin/vmtoolsd
+root          -  0.2    -      -     - -        Sl   21:54   0:03 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root       1467  0.0  0.1  67372  3336 ?        -    21:54   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+root          -  0.0    -      -     - -        S    21:54   0:00 -
+gdm        1529  0.0  0.3 411664  6836 tty1     -    21:54   0:00 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+root       1536  0.1  0.2 508344  5876 ?        -    21:54   0:02 //usr/lib/vmware-caf/pme/bin/ManagementAgentHost
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+root          -  0.0    -      -     - -        Sl   21:54   0:00 -
+whoopsie   1540  0.0  0.4 464324  9828 ?        -    21:54   0:00 /usr/bin/whoopsie -f
+whoopsie      -  0.0    -      -     - -        Ssl  21:54   0:00 -
+whoopsie      -  0.0    -      -     - -        Ssl  21:54   0:00 -
+whoopsie      -  0.0    -      -     - -        Ssl  21:54   0:00 -
+kernoops   1541  0.0  0.0  56936  1648 ?        -    21:54   0:00 /usr/sbin/kerneloops --test
+kernoops      -  0.0    -      -     - -        Ss   21:54   0:00 -
+kernoops   1543  0.0  0.0  56936  1692 ?        -    21:54   0:00 /usr/sbin/kerneloops
+kernoops      -  0.0    -      -     - -        Ss   21:54   0:00 -
+gdm        1606  0.0  0.2 349284  4988 ?        -    21:54   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm        1611  0.0  0.1  49924  2724 ?        -    21:54   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm           -  0.0    -      -     - -        S    21:54   0:00 -
+gdm        1613  0.0  0.2 220760  5688 ?        -    21:54   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm        1620  0.0  0.1 1153308 3636 ?        -    21:54   0:01 /usr/bin/pulseaudio --daemonize=no
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Ssl  21:54   0:00 -
+rtkit      1621  0.0  0.1 183500  2340 ?        -    21:54   0:00 /usr/lib/rtkit/rtkit-daemon
+rtkit         -  0.0    -      -     - -        SNsl 21:54   0:00 -
+rtkit         -  0.0    -      -     - -        Ssl  21:54   0:00 -
+rtkit         -  0.0    -      -     - -        SNsl 21:54   0:00 -
+gdm        1634  0.0  0.3 435092  6780 tty1     -    21:54   0:00 ibus-daemon --xim --panel disable
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm        1637  0.0  0.2 280744  5124 tty1     -    21:54   0:00 /usr/lib/ibus/ibus-dconf
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm        1640  0.0  1.2 493220 24776 tty1     -    21:54   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:55   0:00 -
+gdm        1644  0.0  0.2 278556  5332 ?        -    21:54   0:00 /usr/lib/ibus/ibus-portal
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:54   0:00 -
+root       1652  0.0  0.2 296868  5880 ?        -    21:54   0:00 /usr/lib/x86_64-linux-gnu/boltd
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root       1659  1.4  1.9 523184 39660 ?        -    21:54   0:25 /usr/lib/packagekit/packagekitd
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:54   0:00 -
+gdm        1660  0.0  1.2 644072 25304 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1661  0.0  0.2 278172  5400 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1666  0.0  1.2 492812 24548 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1668  0.0  1.2 734256 25296 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-color
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1670  0.0  0.5 393708 11412 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1672  0.0  0.2 283740  4748 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1673  0.0  1.2 655720 24916 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1675  0.0  1.2 942164 25816 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1677  0.0  0.2 201996  4220 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1679  0.0  1.2 666516 25536 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1680  0.0  0.3 267004  6224 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1684  0.0  0.2 202016  4216 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1688  0.0  0.2 275732  4560 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1691  0.0  0.2 305120  5716 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1692  0.0  0.2 377952  5032 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1696  0.0  0.3 332880  6704 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm        1697  0.0  1.2 577776 25268 tty1     -    21:54   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm           -  0.0    -      -     - -        Sl+  21:54   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+gdm        1712  0.0  0.2 204888  5172 tty1     -    21:55   0:00 /usr/lib/ibus/ibus-engine-simple
+gdm           -  0.0    -      -     - -        Sl   21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:55   0:00 -
+gdm           -  0.0    -      -     - -        Sl   21:55   0:00 -
+colord     1742  0.0  0.5 324988 11512 ?        -    21:55   0:00 /usr/lib/colord/colord
+colord        -  0.0    -      -     - -        Ssl  21:55   0:00 -
+colord        -  0.0    -      -     - -        Ssl  21:55   0:00 -
+colord        -  0.0    -      -     - -        Ssl  21:55   0:00 -
+root       1765  0.0  0.3 267744  6676 ?        -    21:55   0:00 gdm-session-worker [pam/gdm-password]
+root          -  0.0    -      -     - -        Sl   21:55   0:00 -
+root          -  0.0    -      -     - -        Sl   21:55   0:00 -
+root          -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1769  0.0  0.3  77040  6844 ?        -    21:55   0:00 /lib/systemd/systemd --user LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify HOME=/home/zhu LOGNAME=zhu USER=zhu SHELL=/bin/bash INVOCATION_ID=fe80c890f3ec4762a4f615f3c95287e5 JOURNAL_STREAM=9:51375 XDG_RUNTIME_DIR=/run/user/1000
+zhu           -  0.0    -      -     - -        Ss   21:55   0:00 -
+zhu        1770  0.0  0.0 195924  1216 ?        -    21:55   0:00 (sd-pam)
+zhu           -  0.0    -      -     - -        S    21:55   0:00 -
+zhu        1783  0.0  0.2 288344  4032 ?        -    21:55   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1787  0.0  0.2 212128  5556 tty2     -    21:55   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu XDG_SEAT=seat0 LOGNAME=zhu USER=zhu USERNAME=zhu HOME=/home/zhu PWD=/home/zhu SHELL=/bin/bash PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games XDG_SESSION_TYPE=x11 XDG_VTNR=2 LANG=en_US.UTF-8 XDG_SESSION_ID=3 XDG_RUNTIME_DIR=/run/user/1000 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus GDMSESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu DESKTOP_SESSION=ubuntu XDG_CURRENT_DESKTOP=ubuntu:GNOME
+zhu           -  0.0    -      -     - -        Ssl+ 21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl+ 21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl+ 21:55   0:00 -
+zhu        1789  3.2  2.0 391912 41280 tty2     -    21:55   0:55 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3 LANG=en_US.UTF-8 XORG_RUN_AS_USER_OK=1 USERNAME=zhu XDG_VTNR=2 XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu PWD=/home/zhu HOME=/home/zhu XDG_SESSION_TYPE=x11 XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash XDG_CURRENT_DESKTOP=ubuntu:GNOME SHLVL=0 XDG_SEAT=seat0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+zhu           -  2.9    -      -     - -        Sl+  21:55   0:51 -
+zhu           -  0.2    -      -     - -        Sl+  21:55   0:04 -
+zhu        1793  0.1  0.2  50980  4860 ?        -    21:55   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus HOME=/home/zhu LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=zhu XDG_RUNTIME_DIR=/run/user/1000 MANAGERPID=1769 LISTEN_PID=1793 LISTEN_FDS=1 LISTEN_FDNAMES=dbus.socket INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 JOURNAL_STREAM=9:50527
+zhu           -  0.1    -      -     - -        Ss   21:55   0:01 -
+zhu        1797  0.0  0.6 559252 12428 tty2     -    21:55   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/tmp/ssh-Qt1gosJ5G0dP/agent.1797 XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        1821  0.2  3.0 432192 60752 ?        -    21:55   0:03 /usr/bin/fcitx CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 USERNAME=zhu XDG_VTNR=2 XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME SHLVL=1 XDG_SEAT=seat0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx _=/usr/bin/fcitx
+zhu           -  0.2    -      -     - -        Sl   21:55   0:03 -
+zhu           -  0.0    -      -     - -        Sl   21:56   0:00 -
+zhu        1836  0.0  0.1  50080  2848 ?        -    21:55   0:00 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf CLUTTER_IM_MODULE=xim _=/usr/bin/dbus-launch LANG=en_US.UTF-8 DISPLAY=:0 USERNAME=zhu XDG_VTNR=2 XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/ HOME=/home/zhu TEXTDOMAIN=im-config XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_SEAT=seat0 SHLVL=2 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx
+zhu           -  0.0    -      -     - -        Ss   21:55   0:00 -
+zhu        1845  0.0  0.0  27588   208 ?        -    21:55   0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-5zL2paHDQX,guid=66ffb6ba9379218f3435d1045eb3d7de 1836 CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 USERNAME=zhu XDG_VTNR=2 XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME SHLVL=1 XDG_SEAT=seat0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx _=/usr/bin/fcitx
+zhu           -  0.0    -      -     - -        SN   21:55   0:00 -
+zhu        1886  0.0  0.0  11300   320 ?        -    21:55   0:00 /usr/bin/ssh-agent /usr/bin/sogou-session /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+zhu           -  0.0    -      -     - -        Ss   21:55   0:00 -
+zhu        1890  0.0  0.2 349312  5632 ?        -    21:55   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=706a2b477a1c489599f7852602980c45 JOURNAL_STREAM=9:50698
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        1895  0.0  0.1  50048  3584 ?        -    21:55   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=706a2b477a1c489599f7852602980c45 JOURNAL_STREAM=9:50698
+zhu           -  0.0    -      -     - -        S    21:55   0:00 -
+zhu        1898  0.1  0.3 220772  6144 ?        -    21:55   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-g6Ke0GqFDu,guid=8c964b140d7680ce952425b85eb3d7e0 TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_RUNTIME_DIR=/run/user/1000 XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 DISPLAY=:0 DESKTOP_SESSION=ubuntu XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin USERNAME=zhu GDMSESSION=ubuntu GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop JOURNAL_STREAM=9:50698 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 INVOCATION_ID=706a2b477a1c489599f7852602980c45 XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu QT_IM_MODULE=fcitx DBUS_STARTER_BUS_TYPE=accessibility TEXTDOMAINDIR=/usr/share/locale/ SHLVL=1 PWD=/home/zhu MANAGERPID=1769 LANG=en_US.UTF-8 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=ubuntu XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.1    -      -     - -        Sl   21:55   0:01 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1914  5.0  6.7 3385608 136280 tty2   -    21:55   1:26 /usr/bin/gnome-shell CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399442300000017970000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1914
+zhu           -  4.9    -      -     - -        Sl+  21:55   1:23 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        1920  0.0  0.2 291968  5712 ?        -    21:55   0:00 /usr/lib/gvfs/gvfsd CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=a71695a9a12c40a4a031c6e4c2e76770 JOURNAL_STREAM=9:51769
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        1925  0.0  0.2 416112  4780 ?        -    21:55   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=a71695a9a12c40a4a031c6e4c2e76770 JOURNAL_STREAM=9:51769
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1936  0.2  0.5 1172068 10428 ?       -    21:55   0:04 /usr/bin/pulseaudio --start --log-target=syslog CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399442300000017970000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1914 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG LD_BIND_NOW=1
+zhu           -  0.0    -      -     - -        S<l  21:55   0:00 -
+zhu           -  0.2    -      -     - -        Sl   21:55   0:03 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+root       1948  0.0  0.0      0     0 ?        -    21:55   0:00 [krfcommd]
+root          -  0.0    -      -     - -        S<   21:55   0:00 -
+zhu        1950  0.0  0.3 435096  6752 tty2     -    21:55   0:00 ibus-daemon --xim --panel disable CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399442300000017970000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1914 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1954  0.0  0.2 280748  5864 tty2     -    21:55   0:00 /usr/lib/ibus/ibus-dconf CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399442300000017970000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1914 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1956  0.0  0.8 343936 16840 tty2     -    21:55   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399442300000017970000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1914 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1959  0.0  0.2 278556  5112 ?        -    21:55   0:00 /usr/lib/ibus/ibus-portal SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1970  0.0  0.4 689776  9176 ?        -    21:55   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1974  0.0  0.7 692216 14280 ?        -    21:55   0:00 /usr/lib/evolution/evolution-source-registry CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=6b9fa9c5e3164d91bfef1d6139d3484e JOURNAL_STREAM=9:51914
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        1981  0.0  0.7 779508 15724 ?        -    21:55   0:00 /usr/lib/gnome-online-accounts/goa-daemon SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1989  0.0  0.2 188016  4952 ?        -    21:55   0:00 /usr/lib/dconf/dconf-service SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        1992  0.0  0.3 380244  7256 ?        -    21:55   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=b8a29711675e435289526a766f216799 JOURNAL_STREAM=9:51086
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        1996  0.0  0.2 288784  5972 ?        -    21:55   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=c91be1774b0e43c08fe9b71897ea17e7 JOURNAL_STREAM=9:52168
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2005  0.0  0.2 303356  5360 ?        -    21:55   0:00 /usr/lib/gnome-online-accounts/goa-identity-service SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        2007  0.0  0.2 275868  4564 ?        -    21:55   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=e081a8b474bf470ab48f69797fe36485 JOURNAL_STREAM=9:51136
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2014  0.0  0.2 378812  5432 ?        -    21:55   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=c739b5234112437d8b7c373fa1d6253c JOURNAL_STREAM=9:52233
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2022  0.0  0.2 274044  5120 ?        -    21:55   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=c5cae32bc5364363b7b33830189d95c6 JOURNAL_STREAM=9:51188
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2029  0.0  0.2 278180  5220 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399721400000017970008 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Mouse.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2029
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2030  0.0  0.8 517196 17772 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-power CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399750000000017970009 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Power.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2030
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2034  0.0  0.3 349320  7244 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399783100000017970010 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.PrintNotifications.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2034
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2035  0.0  0.2 423340  5352 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399812700000017970011 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Rfkill.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2035
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2036  0.0  0.2 275732  4460 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399842400000017970012 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.ScreensaverProxy.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2036
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2037  0.0  0.3 452848  7208 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399869900000017970013 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Sharing.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2037
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2038  0.0  0.2 377948  4920 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399908000000017970014 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Smartcard.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2038
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2042  0.0  0.3 332872  6832 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-sound CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399939800000017970015 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Sound.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2042
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2045  0.0  0.8 428432 17264 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399975800000017970016 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Wacom.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2045
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2050  0.0  0.8 494836 17496 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451406700000017970017 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.XSettings.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2050
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2065  0.0  0.2 278168  5272 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399496000000017970001 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.A11ySettings.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2065
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2066  0.0  0.5 469752 11208 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399587000000017970004 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Datetime.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2066
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2070  0.0  0.8 343568 16544 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399525800000017970002 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Clipboard.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2070
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2073  0.0  0.8 658732 17740 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-color CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399553400000017970003 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Color.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2073
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2075  0.0  0.8 1079580 17144 tty2    -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399687000000017970007 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.MediaKeys.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2075
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2077  0.0  0.3 364472  6328 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399616700000017970005 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Housekeeping.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2077
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2078  0.0  0.8 506416 16988 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399643900000017970006 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Keyboard.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2078
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2103  0.0  0.4 508760  9800 tty2     -    21:55   0:00 /usr/lib/gnome-settings-daemon/gsd-printer CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399783100000017970010 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.PrintNotifications.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2034
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2125  0.0  0.2 271932  5524 tty2     -    21:55   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa9249315888445143255000000017970047 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.DiskUtilityNotify.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2125
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2127  0.1  1.1 824624 22720 tty2     -    21:55   0:02 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa9249315888445144532200000017970056 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/kdeconnectd.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2127
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:01 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2133  0.2  0.4 265772  9836 tty2     -    21:55   0:04 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3 CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa924931588844514305900000017970019 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/gnome/autostart/vmware-user.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2129
+zhu           -  0.2    -      -     - -        Sl+  21:55   0:04 -
+zhu           -  0.0    -      -     - -        Sl+  22:07   0:00 -
+zhu        2134  0.2  1.8 1319384 37096 tty2    -    21:55   0:04 nautilus-desktop CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa924931588844514750300000017970023 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/nautilus-autostart.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2134
+zhu           -  0.2    -      -     - -        Sl+  21:55   0:04 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:55   0:00 -
+zhu        2157  0.0  0.2 368248  5908 ?        -    21:55   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.24 /org/gtk/gvfs/exec_spaw/0 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=a71695a9a12c40a4a031c6e4c2e76770 JOURNAL_STREAM=9:51769
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        2197  0.1  2.5 892108 50888 ?        -    21:55   0:02 /usr/lib/evolution/evolution-calendar-factory CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=e49a342b3142492d80e8ba4063fa07ac JOURNAL_STREAM=9:54106
+zhu           -  0.1    -      -     - -        Ssl  21:55   0:02 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2199  0.4  4.3 3530308 87168 ?       -    21:55   0:08 sogou-qimpanel CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa9249315888445142949900000017970043 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/fcitx-ui-sogou-qimpanel.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2188
+zhu           -  0.4    -      -     - -        Sl   21:55   0:08 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        2231  0.0  2.2 1062112 46036 ?       -    21:55   0:01 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2197x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2197/2 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=e49a342b3142492d80e8ba4063fa07ac JOURNAL_STREAM=9:54106
+zhu           -  0.0    -      -     - -        Sl   21:55   0:01 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        2240  0.0  0.2 204888  5860 tty2     -    21:55   0:00 /usr/lib/ibus/ibus-engine-simple CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa92493158884451399442300000017970000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1914 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        2274  0.0  0.5 732696 10976 ?        -    21:55   0:00 /usr/lib/evolution/evolution-addressbook-factory CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=e4f722c397324ef9bba3516cd5052e63 JOURNAL_STREAM=9:54587
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2287  0.0  0.5 1017208 10256 ?       -    21:55   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2274x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2274/2 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=e4f722c397324ef9bba3516cd5052e63 JOURNAL_STREAM=9:54587
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:55   0:00 -
+zhu        2315  0.0  0.2 204516  5400 ?        -    21:55   0:00 /usr/lib/gvfs/gvfsd-metadata CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=d6ebf03aa4954cd2bc40711b0856a9a6 JOURNAL_STREAM=9:54834
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  21:55   0:00 -
+zhu        2461  0.0  0.3 159056  7880 ?        -    21:56   0:00 sogou-qimpanel-watchdog CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 USERNAME=zhu XDG_VTNR=2 XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME SHLVL=1 XDG_SEAT=seat0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx _=/usr/bin/fcitx
+zhu           -  0.0    -      -     - -        S    21:56   0:00 -
+zhu        2651  0.6  7.3 1346400 147888 tty2   -    21:56   0:09 /usr/bin/gnome-software --gapplication-service CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa9249315888445143681700000017970049 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/gnome-software-service.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2651
+zhu           -  0.3    -      -     - -        SLl+ 21:56   0:05 -
+zhu           -  0.0    -      -     - -        SLl+ 21:56   0:00 -
+zhu           -  0.0    -      -     - -        SLl+ 21:56   0:00 -
+zhu           -  0.0    -      -     - -        SLl+ 21:56   0:00 -
+zhu        2658  0.0  0.9 594196 18624 tty2     -    21:56   0:00 update-notifier CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa9249315888445142728000000017970040 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/update-notifier.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2658
+zhu           -  0.0    -      -     - -        Sl+  21:56   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:56   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:56   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:56   0:00 -
+root       2765  0.0  0.9 557840 18892 ?        -    21:56   0:00 /usr/lib/fwupd/fwupd
+root          -  0.0    -      -     - -        Ssl  21:56   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:56   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:56   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:56   0:00 -
+root          -  0.0    -      -     - -        Ssl  21:56   0:00 -
+zhu        2984  0.0  0.9 1005992 19392 tty2    -    21:57   0:00 /usr/lib/deja-dup/deja-dup-monitor CLUTTER_IM_MODULE=xim LANG=en_US.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/zhu HOME=/home/zhu TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu GTK_MODULES=gail:atk-bridge WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 SHLVL=0 GDMSESSION=ubuntu LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_IM_MODULE=fcitx GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 DESKTOP_AUTOSTART_ID=109a45ff035fa9249315888445141288900000017970028 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.DejaDup.Monitor.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2984
+zhu           -  0.0    -      -     - -        Sl+  21:57   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:57   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:57   0:00 -
+zhu           -  0.0    -      -     - -        Sl+  21:57   0:00 -
+zhu        3015  0.2  2.0 910580 41224 ?        -    21:57   0:03 /usr/bin/nautilus --gapplication-service SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu
+zhu           -  0.2    -      -     - -        Sl   21:57   0:03 -
+zhu           -  0.0    -      -     - -        Sl   21:57   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:57   0:00 -
+zhu           -  0.0    -      -     - -        Sl   21:57   0:00 -
+root       3102  0.0  0.0      0     0 ?        -    21:58   0:00 [loop18]
+root          -  0.0    -      -     - -        S<   21:58   0:00 -
+root       3185 18.7  1.3 867116 27912 ?        -    22:00   4:27 /usr/lib/snapd/snapd
+root          -  0.0    -      -     - -        Ssl  22:00   0:01 -
+root          -  0.8    -      -     - -        Ssl  22:00   0:12 -
+root          -  0.0    -      -     - -        Ssl  22:00   0:00 -
+root          -  3.5    -      -     - -        Ssl  22:00   0:51 -
+root          -  0.0    -      -     - -        Ssl  22:00   0:00 -
+root          -  2.4    -      -     - -        Ssl  22:00   0:34 -
+root          -  2.3    -      -     - -        Ssl  22:00   0:33 -
+root          -  2.3    -      -     - -        Ssl  22:00   0:32 -
+root          -  2.6    -      -     - -        Ssl  22:00   0:37 -
+root          -  2.2    -      -     - -        Ssl  22:00   0:32 -
+root          -  0.1    -      -     - -        Ssl  22:00   0:02 -
+root          -  2.1    -      -     - -        Ssl  22:00   0:30 -
+root       3389  0.0  0.0      0     0 ?        -    22:06   0:00 [kworker/u256:0-]
+root          -  0.0    -      -     - -        I    22:06   0:00 -
+root       3463  0.1  0.0      0     0 ?        -    22:07   0:01 [kworker/1:1-mm_]
+root          -  0.1    -      -     - -        I    22:07   0:01 -
+root       3497  0.0  0.0      0     0 ?        -    22:07   0:00 [kworker/u257:2-]
+root          -  0.0    -      -     - -        I<   22:07   0:00 -
+root       3542  0.0  0.3  25992  6128 ?        -    22:07   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-ens33.pid -lf /var/lib/NetworkManager/dhclient-ee6a5842-9530-3f67-a017-3ceb00ee61d4-ens33.lease -cf /var/lib/NetworkManager/dhclient-ens33.conf ens33
+root          -  0.0    -      -     - -        S    22:07   0:00 -
+root       3603  0.0  0.1  28576  3664 ?        -    22:07   0:00 /bin/sh /usr/lib/apt/apt.systemd.daily update
+root          -  0.0    -      -     - -        Ss   22:07   0:00 -
+root       3622  0.0  0.1  28576  3680 ?        -    22:07   0:00 /bin/sh /usr/lib/apt/apt.systemd.daily lock_is_held update
+root          -  0.0    -      -     - -        S    22:07   0:00 -
+root       3709 99.4  5.8 228460 116920 ?       -    22:07  16:22 /usr/bin/python3 /usr/bin/unattended-upgrade --download-only
+root          - 99.4    -      -     - -        RN   22:07  16:22 -
+root       4226  0.0  0.0      0     0 ?        -    22:16   0:00 [kworker/0:1-eve]
+root          -  0.0    -      -     - -        I    22:16   0:00 -
+root       4617  0.0  0.0      0     0 ?        -    22:18   0:00 [kworker/1:2-eve]
+root          -  0.0    -      -     - -        I    22:18   0:00 -
+root       5513  0.0  0.0      0     0 ?        -    22:21   0:00 [kworker/u256:1-]
+root          -  0.0    -      -     - -        I    22:21   0:00 -
+zhu        6032  5.0  2.4 721768 48800 ?        -    22:23   0:01 gedit /home/zhu/Desktop/IDS/test.log SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de TEXTDOMAIN=im-config CLUTTER_IM_MODULE=xim XDG_CURRENT_DESKTOP=ubuntu:GNOME QT_ACCESSIBILITY=1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 DESKTOP_SESSION=ubuntu SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx WINDOWPATH=2 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=2 GTK_IM_MODULE=fcitx GDMSESSION=ubuntu USERNAME=zhu GTK_MODULES=gail:atk-bridge XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_TYPE=x11 XDG_SESSION_ID=3 JOURNAL_STREAM=9:50527 XDG_SEAT=seat0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=2 QT4_IM_MODULE=fcitx DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de SSH_AGENT_PID=1886 GNOME_SHELL_SESSION_MODE=ubuntu INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 QT_IM_MODULE=fcitx XAUTHORITY=/run/user/1000/gdm/Xauthority USER=zhu DBUS_STARTER_BUS_TYPE=session TEXTDOMAINDIR=/usr/share/locale/ SHLVL=0 PWD=/home/zhu XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 _=/usr/bin/dbus-update-activation-environment XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_SESSION_DESKTOP=ubuntu HOME=/home/zhu LOGNAME=zhu PARENT_WINDOW_ID=x11:2200007 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/gedit.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=6032 DESKTOP_STARTUP_ID=nautilus-3015-ubuntu-gedit-2_TIME1731952
+zhu           -  4.7    -      -     - -        Sl   22:23   0:01 -
+zhu           -  0.0    -      -     - -        Sl   22:23   0:00 -
+zhu           -  0.2    -      -     - -        Sl   22:23   0:00 -
+zhu           -  0.0    -      -     - -        Sl   22:23   0:00 -
+zhu        6064  3.6  1.8 674120 36312 ?        -    22:23   0:00 /usr/lib/gnome-terminal/gnome-terminal-server CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge HOME=/home/zhu IM_CONFIG_PHASE=2 LANG=en_US.UTF-8 LOGNAME=zhu PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/zhu QT4_IM_MODULE=fcitx QT_ACCESSIBILITY=1 QT_IM_MODULE=fcitx SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1886 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=zhu USERNAME=zhu WINDOWPATH=2 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=3 XDG_SESSION_TYPE=x11 XDG_VTNR=2 XMODIFIERS=@im=fcitx _=/usr/bin/dbus-update-activation-environment MANAGERPID=1769 INVOCATION_ID=9c5b2445249b4b2bb5ae446c697d04a9 JOURNAL_STREAM=9:118228
+zhu           -  3.3    -      -     - -        Ssl  22:23   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  22:23   0:00 -
+zhu           -  0.2    -      -     - -        Ssl  22:23   0:00 -
+zhu           -  0.0    -      -     - -        Ssl  22:23   0:00 -
+zhu        6070  0.6  0.2  29680  4800 pts/0    -    22:23   0:00 bash XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de LANG=en_US.UTF-8 DISPLAY=:0 SHLVL=0 LOGNAME=zhu XDG_VTNR=2 INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 PWD=/home/zhu/Desktop/IDS HOME=/home/zhu XAUTHORITY=/run/user/1000/gdm/Xauthority JOURNAL_STREAM=9:50527 GTK_IM_MODULE=fcitx COLORTERM=truecolor XDG_SESSION_ID=3 GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/731ee20c_b20d_4ef0_b94a_6aad3b7f1f9d IM_CONFIG_PHASE=2 XDG_SESSION_DESKTOP=ubuntu GDMSESSION=ubuntu TEXTDOMAINDIR=/usr/share/locale/ USERNAME=zhu WINDOWPATH=2 TEXTDOMAIN=im-config GNOME_DESKTOP_SESSION_ID=this-is-deprecated DESKTOP_SESSION=ubuntu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de VTE_VERSION=5202 DBUS_STARTER_BUS_TYPE=session CLUTTER_IM_MODULE=xim GNOME_TERMINAL_SERVICE=:1.106 QT4_IM_MODULE=fcitx _=/usr/bin/dbus-update-activation-environment XDG_MENU_PREFIX=gnome- XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop GNOME_SHELL_SESSION_MODE=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 MANAGERPID=1769 TERM=xterm-256color QT_IM_MODULE=fcitx GTK_MODULES=gail:atk-bridge SSH_AGENT_PID=1886 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 XDG_CURRENT_DESKTOP=ubuntu:GNOME PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XMODIFIERS=@im=fcitx XDG_SEAT=seat0 XDG_RUNTIME_DIR=/run/user/1000 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 USER=zhu
+zhu           -  0.6    -      -     - -        Ss   22:23   0:00 -
+root       6087  0.0  0.0      0     0 ?        -    22:23   0:00 [kworker/0:0-eve]
+root          -  0.0    -      -     - -        I    22:23   0:00 -
+zhu        6158  0.0  0.1  46896  3600 pts/0    -    22:23   0:00 ps auxwwem CLUTTER_IM_MODULE=xim LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: LESSCLOSE=/usr/bin/lesspipe %s %s XDG_MENU_PREFIX=gnome- LANG=en_US.UTF-8 MANAGERPID=1769 DISPLAY=:0 INVOCATION_ID=6a0f1bc0a2564e8b8527ddcafb23a728 GNOME_SHELL_SESSION_MODE=ubuntu COLORTERM=truecolor USERNAME=zhu XDG_VTNR=2 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=3 USER=zhu DESKTOP_SESSION=ubuntu QT4_IM_MODULE=fcitx TEXTDOMAINDIR=/usr/share/locale/ GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/731ee20c_b20d_4ef0_b94a_6aad3b7f1f9d PWD=/home/zhu/Desktop/IDS HOME=/home/zhu JOURNAL_STREAM=9:50527 TEXTDOMAIN=im-config SSH_AGENT_PID=1886 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de GTK_MODULES=gail:atk-bridge WINDOWPATH=2 TERM=xterm-256color SHELL=/bin/bash VTE_VERSION=5202 QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx IM_CONFIG_PHASE=2 DBUS_STARTER_BUS_TYPE=session XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GNOME_TERMINAL_SERVICE=:1.106 XDG_SEAT=seat0 SHLVL=1 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated LOGNAME=zhu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=a415dbfccdd62a4a7aac8a885eb3d7de XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1797,unix/ubuntu:/tmp/.ICE-unix/1797 LESSOPEN=| /usr/bin/lesspipe %s GTK_IM_MODULE=fcitx _=/bin/ps
+zhu           -  0.0    -      -     - -        R+   22:23   0:00 -
